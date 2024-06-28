@@ -1,0 +1,14 @@
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.exe
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.deps.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.runtimeconfig.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\bin\Debug\net8.0\Challenge.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.AssemblyInfo.cs
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\refint\Challenge.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\Challenge.genruntimeconfig.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\Challenge\obj\Debug\net8.0\ref\Challenge.dll

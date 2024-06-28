@@ -1,0 +1,23 @@
+Assignment: Building a "How Many Days?" Console Application in C#
+
+Objective:
+
+Create a console application that asks the user to enter a date and then tells them how many days 
+have passed since that date or how many days remain until that date. The program should run 
+continuously until the user enters "exit".
+
+Requirements:
+
+1. Prompt the user to enter a date or type "exit" to quit the program.
+2. Parse the entered date and check if it is valid.
+3. Compare the entered date with the current date to determine if it is in the past, present, 
+or future.
+4. Display the appropriate message based on the comparison.
+5. Handle invalid date inputs gracefully by showing an error message.
+6. The program should loop until the user decides to exit.
+
+Flexibility:
+
+You can solve this problem using different looping constructs (like while, do-while, for, etc.), or 
+you can use recursion if you prefer. You can also handle user input and date parsing in various 
+ways. Below are examples of different methods to solve the assignment

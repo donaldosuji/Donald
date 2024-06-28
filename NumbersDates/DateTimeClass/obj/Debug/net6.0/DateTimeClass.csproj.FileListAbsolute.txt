@@ -1,0 +1,28 @@
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.exe
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.deps.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.runtimeconfig.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\refint\DateTimeClass.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.exe
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.deps.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.runtimeconfig.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\refint\DateTimeClass.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll

@@ -1,0 +1,14 @@
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.exe
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.deps.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.runtimeconfig.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfoInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfo.cs
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\refint\ParseNumbers.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.genruntimeconfig.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ref\ParseNumbers.dll

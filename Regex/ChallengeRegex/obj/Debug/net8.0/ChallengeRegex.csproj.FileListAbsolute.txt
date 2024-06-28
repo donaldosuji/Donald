@@ -1,0 +1,14 @@
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\bin\Debug\net8.0\ChallengeRegex.exe
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\bin\Debug\net8.0\ChallengeRegex.deps.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\bin\Debug\net8.0\ChallengeRegex.runtimeconfig.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\bin\Debug\net8.0\ChallengeRegex.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\bin\Debug\net8.0\ChallengeRegex.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\obj\Debug\net8.0\ChallengeRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\obj\Debug\net8.0\ChallengeRegex.AssemblyInfoInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\obj\Debug\net8.0\ChallengeRegex.AssemblyInfo.cs
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\obj\Debug\net8.0\ChallengeRegex.csproj.CoreCompileInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\obj\Debug\net8.0\ChallengeRegex.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\obj\Debug\net8.0\refint\ChallengeRegex.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\obj\Debug\net8.0\ChallengeRegex.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\obj\Debug\net8.0\ChallengeRegex.genruntimeconfig.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Regex\ChallengeRegex\obj\Debug\net8.0\ref\ChallengeRegex.dll

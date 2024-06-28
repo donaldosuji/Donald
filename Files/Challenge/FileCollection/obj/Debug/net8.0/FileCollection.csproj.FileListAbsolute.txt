@@ -1,0 +1,14 @@
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\bin\Debug\net8.0\FileCollection.exe
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\bin\Debug\net8.0\FileCollection.deps.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\bin\Debug\net8.0\FileCollection.runtimeconfig.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\bin\Debug\net8.0\FileCollection.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\bin\Debug\net8.0\FileCollection.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.AssemblyInfoInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.AssemblyInfo.cs
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.csproj.CoreCompileInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\refint\FileCollection.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.genruntimeconfig.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\ref\FileCollection.dll

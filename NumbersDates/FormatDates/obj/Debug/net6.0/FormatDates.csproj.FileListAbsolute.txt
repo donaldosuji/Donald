@@ -1,0 +1,14 @@
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.exe
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.deps.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.runtimeconfig.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfoInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfo.cs
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.csproj.CoreCompileInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\refint\FormatDates.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.genruntimeconfig.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\NumbersDates\FormatDates\obj\Debug\net6.0\ref\FormatDates.dll
