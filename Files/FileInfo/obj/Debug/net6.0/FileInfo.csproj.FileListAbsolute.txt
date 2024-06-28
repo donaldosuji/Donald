@@ -12,3 +12,4 @@ C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Progra
 C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.pdb
 C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.genruntimeconfig.cache
 C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\FileInfo\obj\Debug\net6.0\ref\FileInfo.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.sourcelink.json

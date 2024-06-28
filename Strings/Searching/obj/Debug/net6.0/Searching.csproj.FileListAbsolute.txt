@@ -12,3 +12,18 @@ C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\Strings\Searchi
 C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.pdb
 C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.genruntimeconfig.cache
 C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\Start\Start\Strings\Searching\obj\Debug\net6.0\ref\Searching.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.exe
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.deps.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.runtimeconfig.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.AssemblyInfoInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.AssemblyInfo.cs
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.csproj.CoreCompileInputs.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.sourcelink.json
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\refint\Searching.dll
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.pdb
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.genruntimeconfig.cache
+C:\Users\fresh\OneDrive\Documents\300lv 2nd Semester\COM313 - Application Programming with JavaC#\Start\Start\Strings\Searching\obj\Debug\net6.0\ref\Searching.dll
